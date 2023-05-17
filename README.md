@@ -1,9 +1,9 @@
 # Calculadora
 Mi primer proyecto
 
-https://deniskawata.github.io/Calculadora/
-
 Tecnologias:
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
+
+https://deniskawata.github.io/Calculadora/
